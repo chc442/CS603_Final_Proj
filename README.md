@@ -1,4 +1,4 @@
-# Assignment 4: A* with Jump-Point Search
+# Grid pathfinding with A* with Jump-Point Search and Bounding Boxes
 
 ## Dependencies
 `sudo apt-get install cmake build-essential clang libgoogle-glog-dev  libgflags-dev cimg-dev`
