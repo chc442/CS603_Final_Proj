@@ -1,0 +1,2 @@
+/usr/bin/ar qc libamrl-shared-lib.a  CMakeFiles/amrl-shared-lib.dir/util/helpers.cc.o CMakeFiles/amrl-shared-lib.dir/util/pthread_utils.cc.o CMakeFiles/amrl-shared-lib.dir/util/timer.cc.o CMakeFiles/amrl-shared-lib.dir/util/colorize.cc.o CMakeFiles/amrl-shared-lib.dir/util/random.cc.o CMakeFiles/amrl-shared-lib.dir/util/serialization.cc.o
+/usr/bin/ranlib libamrl-shared-lib.a

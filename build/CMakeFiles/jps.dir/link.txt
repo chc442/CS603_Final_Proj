@@ -1,0 +1,1 @@
+/usr/bin/clang++  -std=c++11 -Wall -g -g  -rdynamic CMakeFiles/jps.dir/src/jps.cc.o CMakeFiles/jps.dir/src/imagemap.cc.o CMakeFiles/jps.dir/src/jps_main.cc.o  -o ../bin/jps -lglog -lX11 -lpthread -lgflags src/shared/libamrl-shared-lib.a -lglog -lpthread 
